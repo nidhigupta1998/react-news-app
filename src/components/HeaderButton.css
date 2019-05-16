@@ -1,0 +1,15 @@
+.news{
+    background-color:#363636;
+    border:none;
+    color:white;
+    padding:15px;
+    margin-top:15px;
+    margin-left: 10%;
+    margin-bottom: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    border-radius: 6px;
+}
+.main-div{
+    background-color: white;
+}

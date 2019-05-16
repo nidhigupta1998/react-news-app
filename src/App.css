@@ -1,0 +1,28 @@
+.info {
+  width:100%;
+  display:flex;
+  flex-direction: row;
+}
+
+.info-box{
+  display:flex;
+  flex-direction: column;
+}
+
+.btn-add{
+  background-color:green;
+  color:white;
+  border:none;
+  margin:5px;
+  width:10%;
+  padding:10px;
+}
+
+.btn-del{
+  background-color:red;
+  color:white;
+  border:none;
+  margin:5px;
+  width:10%;
+  padding:10px;
+}
